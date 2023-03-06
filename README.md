@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 
 ```cpp
 #!~/users/Mohamed\heggi/cpp/begin.cpp 
-
+#include<READme.h>
 class SoftwareEngineer{
 private: 
   string name ; 
   string role ;
+  READme MyReadme; 
 public: 
    SoftwareEngineer(){
         name = "Mohamed Heggi"; 
         role = "SoftwareEngineer"; 
+        MyReadme.init(); 
    }
    void Say_Hi(){
       cout << "Thanks for reaching me out, hope you find some of my work interesting." << endl; 
@@ -39,6 +41,7 @@ public:
 }
 SofwareEngineer me; 
 me.Say_Hi(); 
+me.MyReadme.DisplayInfo(); 
 ---------
 gcc begin.cpp
 begin.exe 
