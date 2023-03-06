@@ -50,7 +50,7 @@ begin.exe
 --> 
 <div style="border:1px solid white;" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtheggi&&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtheggi&count_private=true&show_icons=true&theme=dracula" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtheggi&layout=compact&theme=dracula" />
 </a> <br> <br> <br> <br>
 </div>
