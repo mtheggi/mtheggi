@@ -86,5 +86,5 @@ begin.exe
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamedheggi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-heggi/)](https://www.linkedin.com/in/mohamed-heggi-06abb9238/)
-[![Codeforces](https://badges.joonhyung.xyz/codeforces/mtheggi.svg)](https://codeforces.com/mtheggi)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/mtheggi.svg)](https://codeforces.com/profile/mtheggi)
 
