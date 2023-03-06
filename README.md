@@ -14,3 +14,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#  Hello there 👋
+
+
+```cpp
+#!~/users/Mohamed\heggi/cpp/begin.cpp 
+
+class SoftwareEngineer{
+private: 
+  string name ; 
+  string role ;
+public: 
+   SoftwareEngineer(){
+        name = "Mohamed Heggi"; 
+        role = "SoftwareEngineer"; 
+   }
+   
+   void Say_Hi(){
+      cout << "Thanks for reaching me out, hope you find some of my work interesting." << endl; 
+   }
+  
+    ~SoftwareEngineer(){}
+}
+
+SofwareEngineer me; 
+me.Say_Hi(); 
+
+---------
+gcc begin.cpp
+begin.exe
+  
+```
