@@ -48,8 +48,18 @@ begin.exe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 --> 
-
+<div style="border:1px solid white;" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mtheggi&&count_private=true&show_icons=true&theme=dracula" />
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtheggi&layout=compact&theme=dracula" />
-</a>
+</a> <br> <br> <br> <br>
+</div>
+
+<p>
+<h4 align="left"><samp> - 👨‍🎓 I am currently a student in Cairo University Faculty of Engineering. <br>
+  - 💻 I am studying computer Engineering. <br> 
+  - 🧠 I am currenly learning problem solving techniques and Web developlment. <br>
+  - 👯 I’m looking to collaborate on open source projects. <br>
+  - ⚡ Fun fact: if you can't fix the bug , make a cup of coffee. while making the coffee, hit your head against the wall twice.
+    </samp></h4>
+  </p>
