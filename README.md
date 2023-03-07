@@ -90,4 +90,7 @@ begin.exe
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohamedheggi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-heggi/)](https://www.linkedin.com/in/mohamed-heggi-06abb9238/)
 [![Codeforces](https://badges.joonhyung.xyz/codeforces/mtheggi.svg)](https://codeforces.com/profile/mtheggi)
+ <a href="https://github.com/sudiptob2?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/mtheggi?color=red&logo=github">
+  </a>
 
