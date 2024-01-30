@@ -43,7 +43,7 @@ SofwareEngineer me;
 me.Say_Hi(); 
 me.MyReadme.DisplayInfo(); 
 ---------
-gcc begin.cpp
+g++ begin.cpp
 begin.exe 
 ```
 
