@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="250" src="https://github.com/mtheggi/mtheggi/blob/main/imgs/welcome.gif">
+  <img width="250" src="[https://github.com/mtheggi/mtheggi/blob/main/imgs/welcome.gif](https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif
+)">
+<!--   <img width="250" src="https://github.com/mtheggi/mtheggi/blob/main/imgs/welcome.gif"> -->
 </p>
 <h3 align="center"><samp> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20" height="20">  welcome to my Github!</samp></h3>
 
