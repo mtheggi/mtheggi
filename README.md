@@ -21,32 +21,6 @@ Here are some ideas to get you started:
 <h3 align="center"><samp> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="20" height="20">  welcome to my Github!</samp></h3>
 
 
-```cpp
-#!~/users/Mohamed\heggi/cpp/begin.cpp 
-#include<READme.h>
-class SoftwareEngineer{
-private: 
-  string name ; 
-  string role ;
-  READme MyReadme; 
-public: 
-   SoftwareEngineer(){
-        name = "Mohamed Heggi"; 
-        role = "SoftwareEngineer"; 
-        MyReadme.init(); 
-   }
-   void Say_Hi(){
-      cout << "Thanks for reaching me out, hope you find some of my work interesting." << endl; 
-   } 
-    ~SoftwareEngineer(){}
-}
-SofwareEngineer me; 
-me.Say_Hi(); 
-me.MyReadme.DisplayInfo(); 
----------
-g++ begin.cpp
-begin.exe 
-```
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtheggi&&count_private=true&show_icons=true&theme=dracula)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
